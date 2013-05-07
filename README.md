@@ -17,7 +17,7 @@ cloudstack-newbie
 ## 2.1、cloudstack+xenserver安装
 ## 2.2、cloudstack+kvm安装
 ## 2.3、cloudstack+vmware安装
-## 2.4、cloudstack快速推到重装
+## 2.4、cloudstack快速推倒重装
 # 三、cloudstack基本使用
 ## 3.1、模板制作
 ### 3.1.1、制作windows模板
